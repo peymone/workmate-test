@@ -33,7 +33,7 @@
 _**Business logic:**_
 
 _Each kitten should have – color, age (full months) and description.
-If there is ambiguity in the task – the final decision remains wit_
+If there is ambiguity in the task – the final decision remains with the candidate._
 
 <h2>Deploy</h2>
 
