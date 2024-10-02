@@ -17,7 +17,7 @@
 
 <h2>About</h2>
 
-**_Test task from work-mate company:_** <a srs="https://work-mate.ru/">**_work-mate_**</a> _Hi, HR_
+**_Test task from work-mate company:_** <a href="https://work-mate.ru/">**_work-mate_**</a> _Hi, HR_
 
 
 **_Design a REST API for the administrator of an online kitten show. The API should have the following methods:_**
@@ -45,7 +45,7 @@ If there is ambiguity in the task – the final decision remains wit_
 - _Open terminal in same directory with docker-compose.yml_
     - _Run following command to build image:_ **_```docker-compose build --no-cache```_**
     - _Run following command to build and run container in detached mode:_ **_```docker-compose up -d```_**
-- _Follow link to get swagger api:_ <a srs="http://localhost:8000/docs">**_application link_**</a>
+- _Follow link to get swagger api:_ <a href="http://localhost:8000/docs">**_application link_**</a>
 - _To stop container, run command (this will stops and delete container): **```docker-compose down -v```**_
 
 
@@ -63,5 +63,5 @@ _You can setup this application by change docker-compose file:_
 > **_P.S. Oh yeah, you haven't seen the tests because there aren't any._**
 >> **_just a joke, they are launched at the container build stage_**
 
->> _**Of course you can use this: <a srs=https://github.com/pytest-docker-compose/pytest-docker-compose>pytest-docker-compose</a>**_
+>> _**Of course you can use this: <a href=https://github.com/pytest-docker-compose/pytest-docker-compose>pytest-docker-compose</a>**_
 >>> _**But for some reason it doesn't install. And I'm generally too lazy, bye!**_
