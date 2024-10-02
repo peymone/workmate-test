@@ -61,6 +61,7 @@ _You can setup this application by change docker-compose file:_
 <br>
 
 > **_P.S. Oh yeah, you haven't seen the tests because there aren't any._**
-    >> **_just a joke, they are launched at the container build stage_**
-    >> _**Of course you can use this: <a srs=https://github.com/pytest-docker-compose/pytest-docker-compose>pytest-docker-compose</a>**_
-    >> _**But for some reason it doesn't install. And I'm generally too lazy, bye!**_
+>> **_just a joke, they are launched at the container build stage_**
+
+>> _**Of course you can use this: <a srs=https://github.com/pytest-docker-compose/pytest-docker-compose>pytest-docker-compose</a>**_
+>>> _**But for some reason it doesn't install. And I'm generally too lazy, bye!**_
