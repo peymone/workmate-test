@@ -43,7 +43,6 @@ If there is ambiguity in the task – the final decision remains wit_
 
 - _Downlocad latest release of application and unpack_
 - _Open terminal in same directory with docker-compose.yml_
-    - _Run following command to build image:_ **_```docker-compose build --no-cache```_**
     - _Run following command to build and run container in detached mode:_ **_```docker-compose up -d```_**
 - _Follow link to get swagger api:_ <a href="http://localhost:8000/docs">**_application link_**</a>
 - _To stop container, run command (this will stops and delete container): **```docker-compose down -v```**_
