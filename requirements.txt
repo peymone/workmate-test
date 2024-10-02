@@ -1,0 +1,5 @@
+fastapi[standard]
+SQLAlchemy
+aiosqlite
+pytest
+pytest_asyncio
